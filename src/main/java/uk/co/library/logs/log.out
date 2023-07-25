@@ -1,0 +1,41 @@
+2023-07-24 12:07:910 INFO  HomePage :68 - Clicking on login link : jobTitle
+2023-07-24 12:07:231 INFO  HomePage :74 - Clicking on login link : location
+2023-07-24 12:07:663 INFO  HomePage :68 - Clicking on login link : Tester
+2023-07-24 12:07:823 INFO  HomePage :74 - Clicking on login link : Harrow
+2023-07-24 12:07:223 INFO  HomePage :68 - Clicking on login link : Tester
+2023-07-24 12:07:414 INFO  HomePage :74 - Clicking on login link : Harrow
+2023-07-24 12:07:461 INFO  HomePage :68 - Clicking on login link : Tester
+2023-07-24 12:07:621 INFO  HomePage :74 - Clicking on login link : Harrow
+2023-07-24 12:07:898 INFO  HomePage :81 - Clicking on login link : 5 miles
+2023-07-24 12:07:10 INFO  HomePage :87 - Clicking on login link : [[ChromeDriver: chrome on windows (0d1563854139e4936f5ffdd9620debd5)] -> id: toggle-hp-search]
+2023-07-24 12:07:264 INFO  HomePage :93 - Clicking on login link : 30000
+2023-07-24 12:07:474 INFO  HomePage :68 - Clicking on login link : Tester
+2023-07-24 12:07:721 INFO  HomePage :74 - Clicking on login link : Harrow
+2023-07-24 12:07:932 INFO  HomePage :81 - Clicking on login link : 5 miles
+2023-07-24 12:07:39 INFO  HomePage :87 - Clicking on login link : [[ChromeDriver: chrome on windows (831af13091b6ff268909813f3bd95794)] -> id: toggle-hp-search]
+2023-07-24 12:07:277 INFO  HomePage :93 - Clicking on login link : 30000
+2023-07-24 12:07:397 INFO  HomePage :68 - Clicking on login link : Software
+2023-07-24 12:07:571 INFO  HomePage :74 - Clicking on login link : Pitsea, Essex
+2023-07-24 12:07:673 INFO  HomePage :81 - Clicking on login link : 15 miles
+2023-07-24 12:07:954 INFO  HomePage :87 - Clicking on login link : [[ChromeDriver: chrome on windows (f8141c6d977c0e9be745bf14ff5bc821)] -> id: toggle-hp-search]
+2023-07-24 12:07:191 INFO  HomePage :93 - Clicking on login link : 35000
+2023-07-24 12:07:999 INFO  HomePage :68 - Clicking on login link : Manager
+2023-07-24 12:07:207 INFO  HomePage :74 - Clicking on login link : Ilford, Greater London
+2023-07-24 12:07:415 INFO  HomePage :81 - Clicking on login link : 2 miles
+2023-07-24 12:07:510 INFO  HomePage :87 - Clicking on login link : [[ChromeDriver: chrome on windows (53c0cf454b5eda2fcffa530fdaeb97fb)] -> id: toggle-hp-search]
+2023-07-24 12:07:729 INFO  HomePage :93 - Clicking on login link : 35000
+2023-07-24 12:07:467 INFO  HomePage :68 - Clicking on login link : Bookkeeper
+2023-07-24 12:07:733 INFO  HomePage :74 - Clicking on login link : Bishops Hatfield
+2023-07-24 12:07:159 INFO  HomePage :81 - Clicking on login link : 10 miles
+2023-07-24 12:07:321 INFO  HomePage :87 - Clicking on login link : [[ChromeDriver: chrome on windows (e81dff6feafe1078c667b128205e0f0d)] -> id: toggle-hp-search]
+2023-07-24 12:07:621 INFO  HomePage :93 - Clicking on login link : 35000
+2023-07-24 12:07:61 INFO  HomePage :68 - Clicking on login link : Sales Manager
+2023-07-24 12:07:290 INFO  HomePage :74 - Clicking on login link : Lincoln, Lincolnshire
+2023-07-24 12:07:394 INFO  HomePage :81 - Clicking on login link : 15 miles
+2023-07-24 12:07:724 INFO  HomePage :87 - Clicking on login link : [[ChromeDriver: chrome on windows (14db76932b8ebb7afb2a357865be57d9)] -> id: toggle-hp-search]
+2023-07-24 12:07:968 INFO  HomePage :93 - Clicking on login link : 35000
+2023-07-24 12:07:228 INFO  HomePage :68 - Clicking on login link : Software Developer
+2023-07-24 12:07:739 INFO  HomePage :74 - Clicking on login link : Kingswood, South Gloucestershire
+2023-07-24 12:07:02 INFO  HomePage :81 - Clicking on login link : 100 miles
+2023-07-24 12:07:202 INFO  HomePage :87 - Clicking on login link : [[ChromeDriver: chrome on windows (1cb1e7cb160935cda83b06ac1607fff5)] -> id: toggle-hp-search]
+2023-07-24 12:07:633 INFO  HomePage :93 - Clicking on login link : 35000
